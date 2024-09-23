@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&weight=800&pause=1000&color=DEFF11&width=435&lines=Hello+There.;Most+People+call+me+%24wagg;I+create+stuff.;Anyway%2C+you+can+check+out+my+profile+now.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Product+Sans&duration=2000&pause=250&color=19D7FF&width=435&lines=Welcome+to+my+profile!;Check+out+my+open-source+HTML+browser!;Message+secondrobloxx+on+discord!;Goodbye!)](https://git.io/typing-svg)
